@@ -2,6 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
+#点击主题后跳转页面
 url: https://sharebywyb.github.io/
 date_format: "ordinal"
 title: 码志
