@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://sharebywyb.github.io/
+url:https://mazhuang.org
 date_format: "ordinal" 
 title: 总能找到你想要的
 subtitle: "公众号：待定"
